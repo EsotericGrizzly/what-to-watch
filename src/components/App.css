@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Roboto-regular';
+  src: url(../fonts/Roboto-Regular.ttf) format("truetype");
+}
+
+.App {
+  background: #383838;
+  background: radial-gradient(circle, #383838 0%, #0a0a0a 100%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: roboto-regular;
+  color: white;
+}
+
+.main-title {
+  padding-left: 88px;
+  padding-top: 36px;
+  font-size: 52px;
+}
+
+.main-title span {
+  color: #C00000;
+}
+/*# sourceMappingURL=App.css.map */

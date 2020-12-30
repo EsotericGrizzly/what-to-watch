@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.a685d526.chunk.css",
-    "main.js": "./static/js/main.5c6a89ac.chunk.js",
-    "main.js.map": "./static/js/main.5c6a89ac.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.c8c37b60.js",
-    "runtime-main.js.map": "./static/js/runtime-main.c8c37b60.js.map",
-    "static/css/2.957d99a8.chunk.css": "./static/css/2.957d99a8.chunk.css",
-    "static/js/2.08b1b2bb.chunk.js": "./static/js/2.08b1b2bb.chunk.js",
-    "static/js/2.08b1b2bb.chunk.js.map": "./static/js/2.08b1b2bb.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.957d99a8.chunk.css.map": "./static/css/2.957d99a8.chunk.css.map",
-    "static/css/main.a685d526.chunk.css.map": "./static/css/main.a685d526.chunk.css.map",
-    "static/js/2.08b1b2bb.chunk.js.LICENSE.txt": "./static/js/2.08b1b2bb.chunk.js.LICENSE.txt",
-    "static/media/App.css": "./static/media/Roboto-Regular.03523cf5.ttf",
-    "static/media/arrow.c3b03577.svg": "./static/media/arrow.c3b03577.svg",
-    "static/media/search.68392e5c.svg": "./static/media/search.68392e5c.svg"
+    "main.css": "/what-to-watch/static/css/main.9f9f3d56.chunk.css",
+    "main.js": "/what-to-watch/static/js/main.5c6a89ac.chunk.js",
+    "main.js.map": "/what-to-watch/static/js/main.5c6a89ac.chunk.js.map",
+    "runtime-main.js": "/what-to-watch/static/js/runtime-main.eca9f5c1.js",
+    "runtime-main.js.map": "/what-to-watch/static/js/runtime-main.eca9f5c1.js.map",
+    "static/css/2.957d99a8.chunk.css": "/what-to-watch/static/css/2.957d99a8.chunk.css",
+    "static/js/2.08b1b2bb.chunk.js": "/what-to-watch/static/js/2.08b1b2bb.chunk.js",
+    "static/js/2.08b1b2bb.chunk.js.map": "/what-to-watch/static/js/2.08b1b2bb.chunk.js.map",
+    "index.html": "/what-to-watch/index.html",
+    "static/css/2.957d99a8.chunk.css.map": "/what-to-watch/static/css/2.957d99a8.chunk.css.map",
+    "static/css/main.9f9f3d56.chunk.css.map": "/what-to-watch/static/css/main.9f9f3d56.chunk.css.map",
+    "static/js/2.08b1b2bb.chunk.js.LICENSE.txt": "/what-to-watch/static/js/2.08b1b2bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/what-to-watch/static/media/Roboto-Regular.03523cf5.ttf",
+    "static/media/arrow.c3b03577.svg": "/what-to-watch/static/media/arrow.c3b03577.svg",
+    "static/media/search.68392e5c.svg": "/what-to-watch/static/media/search.68392e5c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8c37b60.js",
+    "static/js/runtime-main.eca9f5c1.js",
     "static/css/2.957d99a8.chunk.css",
     "static/js/2.08b1b2bb.chunk.js",
-    "static/css/main.a685d526.chunk.css",
+    "static/css/main.9f9f3d56.chunk.css",
     "static/js/main.5c6a89ac.chunk.js"
   ]
 }

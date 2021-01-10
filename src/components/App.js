@@ -20,12 +20,13 @@ function App() {
     <div className="App">
       <h1 className="main-title">What <span>to</span> Watch</h1>
       <SearchBar setSearch={setSearch} />
-      {movieDetails && <MovieDetails
-        setPlay={setPlay}
-        movieDetails={movieDetails}
-        setMovieDetails={setMovieDetails}
+      {movieDetails ? (
+        <MovieDetails
+          setPlay={setPlay}
+          movieDetails={movieDetails}
+          setMovieDetails={setMovieDetails}
         />
-      }
+      ) : null}
       {search && <ContentCard 
       CategoryName={"Search Results"}
       url={`https://api.themoviedb.org/3/search/multi/?api_key=${api_key}&query=${search}`}

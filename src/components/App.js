@@ -27,11 +27,13 @@ function App() {
           setMovieDetails={setMovieDetails}
         />
       ) : null}
-      {search && <ContentCard 
-      CategoryName={"Search Results"}
-      url={`https://api.themoviedb.org/3/search/multi/?api_key=${api_key}&query=${search}`}
-      setMovieDetails={setMovieDetails}
-      />}
+      {search ? (
+        <ContentCard
+          setMovieDetails={setMovieDetails}
+          CategoryName={"Search Results"}
+          url={`https://api.themoviedb.org/3/search/multi/?api_key=${api_key}&query=${search}`}
+        />
+      ) : null}
       <ContentCard 
         CategoryName={"Popular Movies"}
         url={`https://api.themoviedb.org/3/movie/popular?api_key=${api_key}`}

@@ -1,3 +1,15 @@
+## What to Watch
+
+Demo here: https://esotericgrizzly.github.io/what-to-watch/
+
+This app displays movie database with infinite loading. Video stream using Shaka player library.
+
+ReactJS: hooks & customHooks.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
